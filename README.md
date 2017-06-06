@@ -8,7 +8,7 @@
 * 用户可自定义的消息通知接口
 
 ## 使用
-#### 1. 导入代码
+#### 1. 引用
 #### 2. 增加dataSource配置
 ```
  <bean id="dataSource_writeable" class="xxxxxxxxxxxxxxxxxxxx">
